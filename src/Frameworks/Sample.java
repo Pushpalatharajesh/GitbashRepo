@@ -1,7 +1,7 @@
  package Frameworks;
 
 import org.testng.annotations.Test;
-
+//pull back by gitbash
 public class Sample 
 {
 	@Test(priority =1)
